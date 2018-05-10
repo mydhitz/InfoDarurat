@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="dev.akakom.infodarurat.ActivityLongsor"
+    tools:showIn="@layout/activity_longsor">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:text="Penanggulangan Longsor\n"
+                android:textStyle="bold"
+                android:textColor="#000000" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:layout_marginBottom="16dp"
+                android:src="@drawable/kelongsoran"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tanggap Darurat\n"
+                android:textStyle="bold"
+                android:textColor="#c6641e" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Evakuasi dan pertolongan pertama pada korban harus dilaksanakan dengan segera agar jumlah korban tidak semakin bertambah banyak." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\nRehabilitasi\n"
+                android:textStyle="bold"
+                android:textColor="#c6641e" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Upaya pemulihan luka dan trauma pada korban harus ditangani dengan segera agar korban dapat melaksanakan aktivitasnya kembali seperti semula pasca terjadinya tanah longsor. Selain itu, pembangunan terhadap infrastruktur dan rumah-rumah yang rusak akibat bencana longsor harus segera ditanggapi oleh pemerintah dengan memberikan bantuan ataupun menurunkan sejumlah sukarelawan agar ikut membangun kembali rumah yang sudah roboh bahkan hancur." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\nRekontruksi\n"
+                android:textStyle="bold"
+                android:textColor="#c6641e" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Penguatan bangunan-bangunan infrastruktur seperti membangun penahan tanah longsor agar kedepannya bencana tersebut dapat diminimalisir se-efektif mungkin. Jika ketiga hal diatas sudah dilakukan, dimungkinkan bencana tanah longsor tidak akan menimbulkan korban jiwa" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.v4.widget.NestedScrollView>

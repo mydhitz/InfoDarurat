@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Info Darurat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">boni octavianus</string>
+    <string name="email">bnctvns@gmail.com</string>
+
+    <!-- Navigation Drawer Menu -->
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="nav_emergency_call">Telepon Darurat</string>
+    <string name="nav_learn">Pelajari Pertolongan</string>
+    <string name="nav_important_contact">Kontak Penting</string>
+    <string name="nav_about_app">Tentang Kami</string>
+
+    <string-array name="Planets">
+        <item>Ambulan</item>
+        <item>Pemadam Kebakaran</item>
+        <item>Polisi</item>
+        <item>SAR</item>
+        <item>PMI</item>
+        <item>Info Keracunan</item>
+    </string-array>
+    <string name="title_activity_activity_lihat_bencana">Gempa Bumi</string>
+    <string name="gempabumi">Penanggulangan Gempa Bumi\n</string>
+    <string name="bumi">Bumi\n</string>
+
+    <string name="tindakanketikagempabumi">TINDAKAN KITA SAAT TERJADI GEMPABUMI</string>
+    <string name="tindakanketikagempabumii">
+        Jika gempabumi menguncang secara tiba-tiba, berikut ini 10 petunjuk yang dapat dijadikan
+pegangan dimanapun anda berada.\n
+    </string>
+    <string name="didalamrumah">DI DALAM RUMAH</string>
+    <string name="didalamrumahh">
+        Getaran akan terasa beberapa saat. Selama jangka waktu itu, anda harus
+mengupayakan keselamatan diri anda dan keluarga anda. Masuklah ke
+bawah meja untuk melindungi tubuh anda dari jatuhan benda-benda. Jika
+anda tidak memiliki meja, lindungi kepala anda dengan bantal. Jika anda
+sedang menyalakan kompor maka matikan segera untuk mencegah
+terjadinya kebakaran.\n
+    </string>
+    <string name="diluarrumah">DI LUAR RUMAH</string>
+    <string name="diluarrumahh">
+        Lindungi kepala anda dan hindari benda-benda berbahaya. Di daerah
+perkantoran atau kawasan industri, bahaya bisa muncul dari jatuhnya kacakaca
+dan papan-papan reklame. Lindungi kepala anda dengan
+menggunakan tangan, tas atau apapun yang anda bawa. \n
+    </string>
+    <string name="dimalbioskop">DI MALL, BIOSKOP, LANTAI DASAR</string>
+    <string name="dimalbioskopp">
+        Jangan menyebabkan kepanikan atau korban dari kepanikan. Ikuti semua
+petunjuk dari pegawai atau satpam. \n
+    </string>
+    <string name="didalamlift">DI DALAM LIFT</string>
+    <string name="didalamliftt">
+        Jangan menggunakan lift saat terjadi gempabumi atau kebakaran. Jika anda
+merasakan getaran gempabumi saat berada di dalam lift, maka tekanlah
+semua tombol. Ketika lift berhenti, keluarlah, lihat keamanannya dan
+mengungsilah. Jika anda terjebak dalam lift, hubungi manajer gedung
+dengan menggunakan interphone jika tersedia. \n
+    </string>
+    <string name="didalamkeretaapi">DI DALAM KERETA API</string>
+    <string name="didalamkeretaapii">
+        Berpeganganlah dengan erat pada tiang sehingga anda tidak akan terjatuh
+seandainya kereta dihentikan secara mendadak. Bersikap tenanglah
+mengikuti penjelasan dari petugas kereta. Salah mengerti terhadap
+informasi petugas kereta atau stasiun akan mengakibatkan kepanikan. \n
+    </string>
+    <string name="didalammobil">DI DALAM MOBIL</string>
+    <string name="didalammobill">
+        Saat terjadi gempabumi besar, anda akan merasa seakan-akan roda mobil
+anda gundul. Anda akan kehilangan kontrol terhadap mobil dan susah
+mengendalikannya. Jauhi persimpangan, pinggirkan mobil anda di kiri
+jalan dan berhentilah. Ikuti instruksi dari radio mobil. Jika harus
+mengungsi maka keluarlah dari mobil, biarkan mobil tak terkunci. \n
+    </string>
+    <string name="digunung">DI GUNUNG / PANTAI</string>
+    <string name="digunungg">
+        Ada kemungkinan lonsor terjadi dari atas gunung. Menjauhlah langsung ke
+tempat aman. Di pesisir pantai, bahayanya datang dari tsunami. Jika anda
+merasakan getaran dan tanda-tanda tsunami tampak, cepatlah mengungsi
+ke dataran yang tinggi. \n
+    </string>
+    <string name="beripertolongan">BERI PERTOLONGAN</string>
+    <string name="beripertolongann">
+        Sudah dapat diramalkan bahwa banyak orang akan cedera saat terjadi
+gempabumi besar. Karena petugas kesehatan dari rumah-rumah sakit akan
+mengalami kesulitan datang ke tempat kejadian maka bersiaplah
+memberikan pertolongan pertama kepada orang-orang berada di sekitar
+anda. \n
+    </string>
+    <string name="evakuasi">EVAKUASI</string>
+    <string name="evakuasii">
+        Tempat-tempat pengungsian biasanya telah diatur oleh pemerintah daerah.
+Pengungsian perlu dilakukan jika kebakaran meluas akibat gempabumi.
+Pada prinsipnya, evakuasi dilakukan dengan berjalan kaki dibawah
+kawalan petugas polisi atau instansi pemerintah. Bawalah barang-barang
+secukupnya. \n
+    </string>
+    <string name="dengarkaninformasi">DENGARKAN INFORMASI</string>
+    <string name="dengarkaninformasii">
+       Saat gempabumi besar terjadi, masyarakat terpukul kejiwaannya. Untuk
+mencegah kepanikan, penting sekali setiap orang bersikap tenang dan
+bertindaklah sesuai dengan informasi yang benar. Anda dapat memperoleh
+informasi yang benar dari pihak berwenang, polisi, atau petugas PMK.
+Jangan bertindak karena informasi orang yang tidak jelas.\n
+    </string>
+
+
+    <string name="title_activity_activity_lihat_bencana_kebakran">Kebakaran</string>
+    <string name="title_activity_activity_kebakaran">Kebakaran</string>
+    <string name="large_text">large text</string>
+    <string name="penanggulangan_tsunami">1.Melaksanakan evakuasi secara intensif.\n\n
+        "2.Melaksanakan pengelolaan pengungsi.\n\n"
+        "3.Melakukan terus pencarian orang hilang, dan pengumpulan jenazah.\n\n"
+        "4.Membuka dan hidupkan jalur logistik dan lakukan resuplay serta pendistribusian logistik yang diperlukan. \n\n"
+        "5.Membuka dan memulihkan jaringan komunikasi antar daerah atau kota.\n\n"
+        "6.Melakukan pembersihan kota yang hancur dan penuh puing dan lumpur.\n\n"
+        "7.Menggunakan dana pemerintah untuk penanggulangan bencana dan gunakan pula dengan tepat sumbangan dana baik dari dalam maupun luar negeri.\n\n"
+        "8.Menyambut dengan baik dan libatkan unsur civil society."
+    </string>
+    <string name="penanggulangan_banjir">1. Pengoptimalan sungai ataupun selokan\n
+        "Sungai atau selokan sebaiknya dipelihara dan dipergunakan sebagaimana mestinya. Sungai ataupun selokan untuk tidak digunakan untuk membuang sampah atau tempat pembuangan sampah. Kebersihan dan deras arusnya harus di pantau setiap bukan hanya mengamati jika terjadi banjir.\n\n"
+        "2. Larangan pembuatan rumah penduduk di sepanjang sungai\n"
+        "Tanah di pinggiran sungai tidak seharusnya digunakan untuk pemukiman penduduk karena menyebabkan banjir dan tatanan masyarakat tidak teratur.\n\n"
+        "3. Melaksanakan program tebang pilih dan reboisasi\n"
+        "Pohon yang telah ditebang sebaiknya ada penggantinya. Menebang pohon yang telah berkayu kemudian di tanam kembali tunas pohon yang baru. Hal ini ditujukan untuk regenerasi hutan dengan tujuan hutan tidak menjadi gundul.\n\n"
+        "4. Mempergunakan alat pendeteksi banjir sederhana\n"
+        "Agar dapat mengetahui datangnya banjir diperlukan alat yang mendeteksi banjir yang sederhana yang masyarakat dapat mengetahui cara pembuatnya."
+    </string>
+    <string name="title_activity_activity_gempabumi">Gempa Bumi</string>
+    <string name="title_activity_activity_badai">Badai</string>
+    <string name="title_activity_activity_tsunami">Tsunami</string>
+    <string name="title_activity_activity_banjir">Banjir</string>
+    <string name="title_activity_activity_longsor">Longsor</string>
+
+</resources>
